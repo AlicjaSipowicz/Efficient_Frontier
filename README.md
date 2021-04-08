@@ -1,5 +1,5 @@
 # Efficient_Frontier
-Efficient Frontier portfolio optimisation on 4 out of TOP10 NASDAQ companies
+Efficient Frontier portfolio optimisation on 4 out of TOP10 NASDAQ companies. \n
 In first part of the code we need to download required packages and subpackages: numpy, pandas, matplotlib pandas_datareader.
 First step is to download historical prices of NASDAQ TOP 10 companies. For that i created a dictionary which would map Companies names with its market symbols.
 Then I downloaded the data from Yahho finance using pandas_dataread and put it into the DataFrame.
